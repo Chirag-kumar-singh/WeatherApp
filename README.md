@@ -1,3 +1,4 @@
 # WeatherApp
 
-https://github.com/Chirag-kumar-singh/WeatherApp/blob/main/Screenrecorder-2023-11-09-01-01-13-425.mp4
+
+https://github.com/Chirag-kumar-singh/WeatherApp/assets/127758120/59540367-409c-4785-88ad-79e6711d1d04
